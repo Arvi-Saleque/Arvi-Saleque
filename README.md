@@ -1,17 +1,85 @@
-# Assalamu Alaikum, I'm Salek Bin Hossain (Arvi) 👋
+<h1 align="center">Hi, I'm Salek Bin Hossain</h1>
+<h3 align="center">Flutter Developer • Competitive Programmer • Founder at Effy Tech</h3>
 
-### Computer Science Student | Competitive Programmer | Founder of Effy Tech
+<p align="center">
+  KUET CSE Undergraduate passionate about building scalable mobile apps, modern web platforms,
+  and solving complex algorithmic problems.
+</p>
 
-I am a 3rd-year CSE student at KUET with a passion for building impactful software and solving complex algorithmic problems.
+---
 
-- 🏆 **Competitive Programming:** 4-Star Coder on CodeChef. Active participant in ICPC & ISCPC.
-- 🚀 **Founder:** Leading [Effy Tech](https://github.com/Arvi-Saleque/Effy-Tech), focusing on software solutions.
-- 🛠️ **Current Project:** Developing **Amal Tracker**, an Islamic lifestyle app.
-- 📖 **Hafizul Quran:** Integrating technology with Islamic values.
+## 🚀 About Me
 
-### 🛠 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+I am a Computer Science and Engineering undergraduate at KUET and the Founder of **Effy Tech**.  
+My primary focus is **Flutter mobile application development**, while also building web platforms using **Next.js, React, and modern backend tools**.
 
-### 📊 GitHub Stats
-![Arvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvi-Saleque&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvi-Saleque&layout=compact&theme=dark)
+I enjoy turning ideas into real products — from planning and UI design to development, testing, and deployment.  
+Alongside development, I have a strong competitive programming background that has shaped my problem-solving, clean coding, and optimization mindset.
+
+---
+
+## 🏆 Highlights
+
+- Founder & Lead Developer at **Effy Tech**
+- **Codeforces Expert** (Peak Rating: 1619)
+- **CodeChef 4★ Coder**
+- **Ranked 39th** in **ICPC Asia Dhaka Regional**
+- **ISCPC National Runner-up**
+- Solved **2000+ problems** on online judges
+- Built and shipped real-world mobile and web products
+
+---
+
+## 💻 Tech Stack
+
+**Mobile:** Flutter, Dart, Firebase, REST APIs  
+**Web:** Next.js, React.js, Tailwind CSS  
+**Databases:** Firestore, MongoDB, PostgreSQL  
+**Languages:** C++, JavaScript, TypeScript, Python  
+**Tools:** Git, GitHub, Android Studio, CI/CD
+
+---
+
+## 📱 Featured Projects
+
+### Amal Tracker
+A Flutter-based productivity and Islamic habit tracking app with reminders, progress tracking, and Firebase-backed data management.
+
+### CodeChase
+A competitive programming tracker that helps users log solving history and analyze daily, weekly, monthly, and yearly progress.
+
+### DHA Site
+A full academic management platform built for madrasa operations with modules for routine, attendance, assignments, notices, and results.
+
+---
+
+## 🎯 Core Strengths
+
+- Clean architecture and scalable app structure
+- Strong problem-solving and DSA foundation
+- State management and performance-focused UI
+- Debugging, testing, and API integration
+- End-to-end product development
+
+---
+
+## 🌱 Current Focus
+
+- Building polished Flutter applications
+- Exploring scalable product architecture
+- Developing impactful software through Effy Tech
+- Improving problem-solving and competitive programming performance
+
+---
+
+## 📫 Connect With Me
+
+- Email: **alifsalek.as@gmail.com**
+- LinkedIn: **linkedin.com/in/salek-bin-hossain**
+- GitHub: **github.com/Arvi-Saleque**
+
+---
+
+<p align="center">
+  Open to collaboration, internships, freelance work, and meaningful software projects.
+</p>
